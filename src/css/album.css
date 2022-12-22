@@ -1,0 +1,8 @@
+.card-music {
+  height: 440px;
+  left: 500px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 322px;
+  width: 1100px;
+}

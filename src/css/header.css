@@ -1,0 +1,95 @@
+* {
+  background-color: white;
+}
+
+.container-header {
+  background: white;
+  box-shadow: 2px 1px 1px black;
+  display: flex;
+  flex-direction: column;
+  height: 760px;
+  margin-bottom: 30px;
+  position: absolute;
+  width: 290px;
+}
+
+.container-name {
+  color: #444955;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 153px;
+  letter-spacing: 0.03em;
+  line-height: 16px;
+  position: absolute;
+  text-transform: capitalize;
+  top: 664px;
+  width: 83px;
+}
+
+.logo {
+  height: 95.71px;
+  left: 40px;
+  position: absolute;
+  top: 33.59px;
+  width: 170.81px;
+}
+
+.link-search {
+  color: #444955;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 104px;
+  position: absolute;
+  text-decoration: none;
+  text-transform: capitalize;
+  top: 227px;
+  width: 77px;
+}
+
+.link-favorite {
+  color: #444955;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 104px;
+  position: absolute;
+  text-decoration: none;
+  text-transform: capitalize;
+  top: 377px;
+  width: 77px;
+}
+
+.link-profile {
+  color: #444955;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 116px;
+  position: absolute;
+  text-decoration: none;
+  text-transform: capitalize;
+  top: 527px;
+  width: 77px;
+}
+
+.foto-perfil {
+  border-radius: 22px;
+  height: 50px;
+  position: absolute;
+  right: 120px;
+  width: 50px;
+}
+
+.header {
+  border: 1px solid black;
+  height: 300px;
+  left: 291px;
+  position: absolute;
+  width: 1395px;
+}

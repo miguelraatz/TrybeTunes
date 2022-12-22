@@ -1,0 +1,105 @@
+.perfil-container {
+  border: 1px solid black;
+  height: 439px;
+  left: 300px;
+  position: absolute;
+  top: 320px;
+  width: 1400px;
+}
+
+.input-name {
+  font-size: 20px;
+  height: 30px;
+  left: 400px;
+  position: absolute;
+  top: 15px;
+  width: 500px;
+}
+
+.nome {
+  font-size: 20px;
+  left: 320px;
+  position: absolute;
+  top: 20px;
+}
+
+textarea {
+  left: 400px;
+  position: absolute;
+  top: 200px;
+  width: 500px;
+}
+
+.input-email {
+  font-size: 20px;
+  height: 30px;
+  left: 400px;
+  position: absolute;
+  top: 100px;
+  width: 500px;
+}
+
+.email {
+  font-size: 20px;
+  left: 320px;
+  position: absolute;
+  top: 105px;
+}
+
+.descricao {
+  font-size: 20px;
+  left: 300px;
+  position: absolute;
+  top: 205px;
+}
+
+.foto-edit {
+  border-radius: 50%;
+  bottom: 360px;
+  left: 50px;
+  position: absolute;
+}
+
+div .edit {
+  bottom: 430px;
+  font-size: 20px;
+  left: 400px;
+  position: absolute;
+}
+
+.foto {
+  left: 100px;
+  position: absolute;
+  top: 90px;
+}
+
+.save {
+  position: absolute;
+  top: 200px;
+}
+
+.foto-input {
+  left: 20px;
+  position: absolute;
+  top: 130px;
+  width: 250px;
+}
+
+.button-save {
+  border-color: #3498db;
+  box-shadow: 0 0 40px 40px #3498db inset , 0 0 0 0 #3498db;
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  height: 50px;
+  left: 550px;
+  margin: 30px 25px;
+  position: absolute;
+  top: 350px;
+  transition: all 150ms ease-in-out;
+  width: 200px;
+}
+
+.button-save:hover {
+  box-shadow: 0 0 10px 0 #3498db inset , 0 0 10px 4px #3498db;
+}

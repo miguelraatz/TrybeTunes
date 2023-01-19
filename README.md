@@ -1,47 +1,18 @@
-## Boas-vindas ao repositório do projeto Trybetunes!
+# Trybe Tunes :headphones:
 
-Este projeto foi desenvolvido durante o período de Curso da Trybe :rocket:
+A aplicação Trybe Tunes nasceu a partir do projeto de mesmo nome, realizado durante o curso de [Desenvolvimento Web da Trybe](https://www.betrybe.com/?utm_source=google&utm_medium=cpc&utm_campaign=pmax&utm_content=ad1&gclid=CjwKCAjwloCSBhAeEiwA3hVo_Vcaifzp212qnJNIWqPtVYgO0Kv-WeKo-aR2BQdFRsjAR5p2Xtyl0hoCl6oQAvD_BwE).
 
-O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos na Trybe, visando o cumprimento do requisitos solicitados pela mesma.
+## Projeto :rocket:
 
-## Habilidades requeridas
+A proposta do projeto era construir uma aplicação que consultava dados de músicas e álbuns através da consulta à [API pública do Itunes](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/). 
 
-- Fazer requisições e consumir dados vindos de uma API;
+Permitindo ao usuário buscar pelo nome do artista, acessar os albuns deste, favoritar e desfavoritar suas músicas, além claro de reproduzí-las (esta API pública do Itunes apresenta **recortes das canções de 30 seg cada**). Para concluir, a aplicação também permite a edição do perfil do usuário.
 
-- Utilizar os ciclos de vida de um componente React;
+## Tecnologias :rocket:
 
-- Utilizar a função setState de forma a garantir que um determinado código só é executado após o estado ser atualizado;
+Durante o desenvolvimento da aplicação, foram utilizados:
 
-- Utilizar o componente BrowserRouter corretamente;
-
-- Criar rotas, mapeando o caminho da URL com o componente correspondente, via Route;
-
-- Utilizar o Switch do React Router;
-
-- Usar o componente Redirect pra redirecionar para uma rota específica;
-
-- Criar links de navegação na aplicação com o componente Link;
-
----
-
-## O que foi desenvolvido
-
-Foi implementado uma uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada. Nessa aplicação o usuário é capaz de:
-
-- Fazer login;
-- Pesquisar por uma banda ou artista;
-- Listar os álbuns disponíveis dessa banda ou artista;
-- Visualizar as músicas de um álbum selecionado;
-- Reproduzir uma prévia das músicas deste álbum;
-- Favoritar e desfavoritar músicas;
-- Ver a lista de músicas favoritas;
-- Ver o perfil da pessoa logada;
-- Editar o perfil da pessoa logada;
-
-*Obs: Nessa aplicação não há persistência em banco de dados.*
-
----
-
-## Tecnologias usadas
-
-- `javascript`, `jsx`, `React` e `css`.
+* React
+* Javascript 
+* HTML
+* CSS
